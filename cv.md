@@ -15,9 +15,9 @@ for me writing code is challenging interesting and pleasant. Nothing compares to
 * HTML, CSS,  
 * Angular, (basic)
 * Javascript, Typescript (basic)
-* Figma,
-* Firebase,
 * Git
+* Firebase,
+* Figma,
 
 **Code example:**
 
